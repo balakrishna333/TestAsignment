@@ -1,3 +1,8 @@
+// Name : Balakrishna
+// Collage : IIIT RGUKT, RK Valley, Kadapa
+// Year : 2021
+// phone No : 9347937061
+// email: thaletibalakrishna@gmail.com
 
 class SolorSystem {
     constructor() {
